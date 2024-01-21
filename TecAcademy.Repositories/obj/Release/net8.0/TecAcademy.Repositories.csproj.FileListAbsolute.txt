@@ -1,0 +1,17 @@
+C:\Projects\tecacademy\TecAcademy.Repositories\bin\Release\net8.0\TecAcademy.Repositories.deps.json
+C:\Projects\tecacademy\TecAcademy.Repositories\bin\Release\net8.0\TecAcademy.Repositories.runtimeconfig.json
+C:\Projects\tecacademy\TecAcademy.Repositories\bin\Release\net8.0\TecAcademy.Repositories.dll
+C:\Projects\tecacademy\TecAcademy.Repositories\bin\Release\net8.0\TecAcademy.Repositories.pdb
+C:\Projects\tecacademy\TecAcademy.Repositories\bin\Release\net8.0\TecAcademy.Core.dll
+C:\Projects\tecacademy\TecAcademy.Repositories\bin\Release\net8.0\TecAcademy.Core.pdb
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.csproj.AssemblyReference.cache
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.AssemblyInfoInputs.cache
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.AssemblyInfo.cs
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.csproj.CoreCompileInputs.cache
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.csproj.CopyComplete
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.dll
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\refint\TecAcademy.Repositories.dll
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.pdb
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\TecAcademy.Repositories.genruntimeconfig.cache
+C:\Projects\tecacademy\TecAcademy.Repositories\obj\Release\net8.0\ref\TecAcademy.Repositories.dll

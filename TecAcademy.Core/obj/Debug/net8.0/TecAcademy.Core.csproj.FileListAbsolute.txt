@@ -1,0 +1,11 @@
+C:\Projects\tecacademy\TecAcademy.Core\bin\Debug\net8.0\TecAcademy.Core.deps.json
+C:\Projects\tecacademy\TecAcademy.Core\bin\Debug\net8.0\TecAcademy.Core.dll
+C:\Projects\tecacademy\TecAcademy.Core\bin\Debug\net8.0\TecAcademy.Core.pdb
+C:\Projects\tecacademy\TecAcademy.Core\obj\Debug\net8.0\TecAcademy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\tecacademy\TecAcademy.Core\obj\Debug\net8.0\TecAcademy.Core.AssemblyInfoInputs.cache
+C:\Projects\tecacademy\TecAcademy.Core\obj\Debug\net8.0\TecAcademy.Core.AssemblyInfo.cs
+C:\Projects\tecacademy\TecAcademy.Core\obj\Debug\net8.0\TecAcademy.Core.csproj.CoreCompileInputs.cache
+C:\Projects\tecacademy\TecAcademy.Core\obj\Debug\net8.0\TecAcademy.Core.dll
+C:\Projects\tecacademy\TecAcademy.Core\obj\Debug\net8.0\refint\TecAcademy.Core.dll
+C:\Projects\tecacademy\TecAcademy.Core\obj\Debug\net8.0\TecAcademy.Core.pdb
+C:\Projects\tecacademy\TecAcademy.Core\obj\Debug\net8.0\ref\TecAcademy.Core.dll

@@ -1,0 +1,17 @@
+C:\Projects\tecacademy\TecAcademy.Services\bin\Debug\net8.0\TecAcademy.Services.deps.json
+C:\Projects\tecacademy\TecAcademy.Services\bin\Debug\net8.0\TecAcademy.Services.dll
+C:\Projects\tecacademy\TecAcademy.Services\bin\Debug\net8.0\TecAcademy.Services.pdb
+C:\Projects\tecacademy\TecAcademy.Services\bin\Debug\net8.0\TecAcademy.Core.dll
+C:\Projects\tecacademy\TecAcademy.Services\bin\Debug\net8.0\TecAcademy.Repositories.dll
+C:\Projects\tecacademy\TecAcademy.Services\bin\Debug\net8.0\TecAcademy.Repositories.pdb
+C:\Projects\tecacademy\TecAcademy.Services\bin\Debug\net8.0\TecAcademy.Core.pdb
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\TecAcademy.Services.csproj.AssemblyReference.cache
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\TecAcademy.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\TecAcademy.Services.AssemblyInfoInputs.cache
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\TecAcademy.Services.AssemblyInfo.cs
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\TecAcademy.Services.csproj.CoreCompileInputs.cache
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\TecAcademy.Services.csproj.CopyComplete
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\TecAcademy.Services.dll
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\refint\TecAcademy.Services.dll
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\TecAcademy.Services.pdb
+C:\Projects\tecacademy\TecAcademy.Services\obj\Debug\net8.0\ref\TecAcademy.Services.dll
